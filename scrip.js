@@ -6,6 +6,7 @@ const obj = {
     img: "img",
     src: "src",
     alt: "asdasd",
+    title: 'title',
 }
 
 const jbo = {
@@ -13,4 +14,5 @@ const jbo = {
     img: "img",
     src: "src",
     alt: "asdasd",
+    title: 'title2',
 }
